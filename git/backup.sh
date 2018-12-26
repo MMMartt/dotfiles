@@ -1,2 +1,2 @@
 #!/bin/sh
-cp ~/.gitconfig > ./gitconfig
+cp ~/.gitconfig ./gitconfig
