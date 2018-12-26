@@ -1,0 +1,74 @@
+Alfred 3.app
+App Store.app
+Automator.app
+Books.app
+Calculator.app
+Calendar.app
+Chess.app
+Chromium.app
+Contacts.app
+Dashboard.app
+Dictionary.app
+DingTalk.app
+FaceTime.app
+Firefox.app
+Folx.app
+Font Book.app
+GarageBand.app
+Google Chrome.app
+Hammerspoon.app
+Home.app
+Image Capture.app
+InsomniaX.app
+Keka.app
+Keynote.app
+Launchpad.app
+Logitech
+Lonlife.app
+Macs Fan Control.app
+Mail.app
+Maps.app
+Messages.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+Mission Control.app
+NeteaseMusic.app
+News.app
+Notes.app
+Numbers.app
+Oni.app
+Opera.app
+Pages.app
+Photo Booth.app
+Photos.app
+Pixelmator.app
+Postman.app
+Preview.app
+QQ.app
+QQLive.app
+QuickTime Player.app
+RDM.app
+Reminders.app
+Safari.app
+ShadowsocksX-NG-R8.app
+Siri.app
+Steam.app
+Stickies.app
+Stocks.app
+System Preferences.app
+TextEdit.app
+Time Machine.app
+Typora.app
+Utilities
+Visual Studio Code.app
+VoiceMemos.app
+WeChat.app
+Xcode.app
+YY.app
+iMovie.app
+iTerm.app
+iTunes.app
+爱奇艺.app
+斗鱼直播.app

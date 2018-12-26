@@ -1,0 +1,76 @@
+{
+    "window.zoomLevel": -2,
+    "editor.fontFamily": "Source Code Pro for Powerline",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.iconTheme": "vscode-great-icons",
+    "editor.scrollBeyondLastLine": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.tabSize": 2,
+    "breadcrumbs.enabled": true,
+    "vim.useSystemClipboard": true,
+    "vim.statusBarColorControl": false,
+    // "vim.statusBarColors": {
+    //     // inactive
+    //     "normal": "#005f5f",
+    //     "insert": "#5f0000",
+    //     "visual": "#5f00af",
+    //     "visualline": "#005f87",
+    //     "visualblock": "#86592d",
+    //     "replace": "#000000"
+    // },
+    "vim.foldfix": true,
+    // easymotion-begin
+    "vim.easymotion": true,
+    "vim.easymotionMarkerFontFamily": "Source Code Pro for Powerline",
+    "vim.easymotionMarkerFontSize": "15",
+    "vim.easymotionMarkerHeight": 24,
+    "vim.easymotionMarkerWidthPerChar": 10,
+    "vim.easymotionMarkerYOffset": 2,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "npm-intellisense.importES6": false,
+    "prettier.tslintIntegration": true,
+    // "languageServerHaskell.useCustomHieWrapper": true,
+    // "languageServerHaskell.useCustomHieWrapperPath": "hie-wrapper",
+    "files.watcherExclude": {
+        "**/.stack-work/**": true,
+        "**/coverage/**": true
+    },
+    "search.exclude": {
+        "**/.stack-work/**": true,
+        "**/coverage/**": true
+    },
+    "haskell.symbols.executablePath": "fast-tags",
+    "haskell.symbols.provider": "fast-tags",
+    "editor.minimap.renderCharacters": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.highlightModifiedTabs": true,
+    "typescript.preferences.quoteStyle": "single",
+    "mocha-snippets.function-type": "arrow",
+    "mocha-snippets.semicolon": false,
+    "mocha-snippets.glob": "**/*.spec.ts",
+    "cSpell.userWords": [
+        "Coursera",
+        "ojbk",
+        "struct",
+        "unlines",
+        "viml"
+    ],
+    "editor.fontSize": 17,
+    "git.autofetch": true,
+    "editor.multiCursorModifier": "alt",
+    "workbench.editor.showTabs": true,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "window.titleBarStyle": "custom",
+    "window.nativeTabs": false,
+    "zenMode.hideTabs": false
+    // "workbench.colorCustomizations": {
+    //     "statusBar.background": "#005f5f",
+    //     "statusBar.noFolderBackground": "#005f5f",
+    //     "statusBar.debuggingBackground": "#005f5f"
+    // },
+    // easymotion-end
+}

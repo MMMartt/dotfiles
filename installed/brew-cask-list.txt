@@ -1,0 +1,5 @@
+chromium
+font-source-code-pro
+hammerspoon
+insomniax
+oni
