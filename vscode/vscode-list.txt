@@ -11,6 +11,7 @@ code --install-extension emmanuelbeziat.vscode-great-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension fallenwood.vimL
 code --install-extension fisheva.eva-theme
+code --install-extension freebroccolo.sml
 code --install-extension harg.iceberg
 code --install-extension hoovercj.haskell-linter
 code --install-extension hoovercj.vscode-ghc-mod
